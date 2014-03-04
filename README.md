@@ -9,5 +9,5 @@ It is my first progrom submitted to github.
 
 
 
-                                             Zhou Jinrui
+                                                       Zhou Jinrui
                                              2014-3-4 in GuangZhou
