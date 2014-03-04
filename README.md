@@ -9,6 +9,5 @@ It is my first progrom submitted to github.
 
 
 
-
-                                             2014-3-4 in GuangZhou.
-                                             		    Zhou Jinrui
+                                             Zhou Jinrui
+                                             2014-3-4 in GuangZhou
